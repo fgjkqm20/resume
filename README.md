@@ -14,4 +14,17 @@
 자격증 : 정보처리기사(필기)  
 
 스킬  
-Java 8, Spring 5, Oracle 11, Maven 3.8, Mybatis 3
+Java 8, Spring 5, Oracle 11, Maven 3.8, Mybatis 3  
+  
+학력  
+2018년 03월 입학 2022년 02월 졸업 우석대학교(충북) 문예창작학과 3.42/4.5  
+2015년 12월 편입 2017년 02월 졸업 선유고등학교(서울) 이과  
+  
+병역 : 미필  
+  
+교육 수료 사항  
+과정명 : (디지털컨버전스)공공데이터 기반 웹 애플리케이션 개발자 양성과정(2)  
+교육 기관 : KH정보교육원  
+출석률 : 97.1%
+교육 기간 : 2022년 06월 20일 ~ 2022년 11월 18일  
+교육 내용 : Java, Oracle, HTML, CSS, JavaScript, Jquery, Ajax, JSP, Servlet, Spring, Mybatis, Git/GitHub  
