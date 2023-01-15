@@ -1,9 +1,10 @@
 # 이력서
   
+## 기본 정보  
 <table>
   <tr>
     <td rowspan="5">
-      <img src="https://github.com/fgjkqm20/resume/blob/main/image/profile.png">
+      <img src="https://github.com/fgjkqm20/resume/blob/main/image/profile.png" width="117" height="156px">
     </td>
     <td>이름</td>
     <td>고유빈</td>
@@ -22,19 +23,22 @@
   </tr>
   <tr>
     <td>주소</td>
-    <td>[서울 금천구 독산로39길28](https://goo.gl/maps/9rJS4sjK3whZA5s36)</td>
+    <td><a href="https://goo.gl/maps/9rJS4sjK3whZA5s36">서울 금천구 독산로39길28</a></td>
   </tr>
 </table>
   
-|0|0|  
-|---|---|  
-|이름|고유빈|  
-|성별|남자|  
-|나이|만 24세(26세)|  
-|생년월일|1998년 09월 21일|  
-|휴대전화|010-8264-2820|  
-|이메일| 0921mail@naver.com|  
-|주소|[서울 금천구 독산로39길28](https://goo.gl/maps/9rJS4sjK3whZA5s36)|  
+## 연락처
+<table>
+  <tr>
+    <td>휴대전화</td>
+    <td>010-8264-2820</td>
+  </tr>
+  <tr>
+    <td>이메일</td>
+    <td>0921mail@naver.com</td>
+  </tr>
+</table>  
+  
   
 학력 : 대학(4년) 졸업  
 경력 : 신입  
