@@ -59,9 +59,6 @@
   </tr>
 </table>
   
-스킬  
-Java 8, Spring 5, Oracle 11, Maven 3.8, Mybatis 3  
-  
 <h2>학력</h2>
 <table>
   <tr>
@@ -87,9 +84,24 @@ Java 8, Spring 5, Oracle 11, Maven 3.8, Mybatis 3
   </tr>
 </table>
   
-교육 수료 사항  
-과정명 : (디지털컨버전스)공공데이터 기반 웹 애플리케이션 개발자 양성과정(2)  
-교육 기관 : KH정보교육원  
-출석률 : 97.1%
-교육 기간 : 2022년 06월 20일 ~ 2022년 11월 18일  
-교육 내용 : Java, Oracle, HTML, CSS, JavaScript, Jquery, Ajax, JSP, Servlet, Spring, Mybatis, Git/GitHub  
+<h2>교육 수료 사항</h2>
+<table>
+  <tr>
+    <th>과정명</th>
+    <td colspan="3">(디지털컨버전스)공공데이터 기반 웹 애플리케이션 개발자 양성과정(2)</td>
+  </tr>
+  <tr>
+    <th>교육 기관</th>
+    <td>KH정보교육원</td>
+    <th>출석률</th>
+    <td>97.1%</td>
+  </tr>
+  <tr>
+    <th>교육 기간</th>
+    <td colspan="3">2022년 06월 20일 ~ 2022년 11월 18일</td>
+  </tr>
+  <tr>
+    <th>교육 내용</th>
+    <td colspan="3">Java, Oracle, HTML, CSS, JavaScript, Jquery, Ajax, JSP, Servlet, Spring, Mybatis, Git/GitHub</td>
+  </tr>
+</table>
