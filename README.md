@@ -39,7 +39,7 @@
   </tr>
 </table>  
   
-<h2>00</h2>
+<h2>그 밖의 정보</h2>
 <table>
   <tr>
     <th>경력</th>
@@ -88,7 +88,7 @@
 <table>
   <tr>
     <th>과정명</th>
-    <td colspan="3">(디지털컨버전스)공공데이터 기반 웹 애플리케이션 개발자 양성과정(2)</td>
+    <td colspan="3"><a href="https://url.kr/q6dumw">(디지털컨버전스)공공데이터 기반 웹 애플리케이션 개발자 양성과정(2)</a></td>
   </tr>
   <tr>
     <th>교육 기관</th>
