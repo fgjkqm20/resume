@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td rowspan="5">
-      <img src="https://github.com/fgjkqm20/resume/blob/main/image/profile.png" height="200px">
+      <img src="https://github.com/fgjkqm20/resume/blob/main/image/profile.png">
     </td>
     <td>이름</td>
     <td>고유빈</td>
