@@ -1,60 +1,91 @@
-# 이력서
+<h1>이력서</h1>
   
-## 기본 정보  
+<h2>기본 정보</h2> 
 <table>
   <tr>
     <td rowspan="5">
       <img src="https://github.com/fgjkqm20/resume/blob/main/image/profile.png" width="117" height="156px">
     </td>
-    <td>이름</td>
+    <th>이름</th>
     <td>고유빈</td>
   </tr>
   <tr>
-    <td>성별</td>
+    <th>성별</th>
     <td>남자</td>
   </tr>
   <tr>
-    <td>나이</td>
+    <th>나이</th>
     <td>만 24세(26세)</td>
   </tr>
   <tr>
-    <td>생년월일</td>
+    <th>생년월일</th>
     <td>1998년 09월 21일</td>
   </tr>
   <tr>
-    <td>주소</td>
+    <th>주소</th>
     <td><a href="https://goo.gl/maps/9rJS4sjK3whZA5s36">서울 금천구 독산로39길28</a></td>
   </tr>
 </table>
   
-## 연락처
+<h2>연락처</h2> 
 <table>
   <tr>
-    <td>휴대전화</td>
+    <th>휴대전화</th>
     <td>010-8264-2820</td>
   </tr>
   <tr>
-    <td>이메일</td>
+    <th>이메일</th>
     <td><a href="mailto:0921mail@naver.com">0921mail@naver.com</a></td>
   </tr>
 </table>  
   
+<h2>00</h2>
+<table>
+  <tr>
+    <th>경력</th>
+    <td>신입</td>
+  </tr>
+  <tr>
+    <th>병역</th>
+    <td>미필(보충역)</td>
+  </tr>
+  <tr>
+    <th>자격증</th>
+    <td>정보처리기사(필기)</td>
+  </tr>
+  <tr>
+    <th>희망 연봉</th>
+    <td>2800만원 ~ 3000만원</td>
+  </tr>
+</table>
   
-학력 : 대학(4년) 졸업  
-경력 : 신입  
-희망 연봉 : 2800만원 ~ 3000만원  
-자격증 : 정보처리기사(필기)  
-
 스킬  
 Java 8, Spring 5, Oracle 11, Maven 3.8, Mybatis 3  
   
-**학력**  
-|재학 기간|구분|학교명(소재지)|전공|학점|  
-|---|---|---|---|---|  
-|2018.03 ~ 2022.02|졸업|우석 대학교(충북)|문예창작학과|3.42/4.5|  
-|2015.12 ~ 2017.02|졸업|선유 고등학교(서울)|이과||  
-  
-병역 : 미필  
+<h2>학력</h2>
+<table>
+  <tr>
+    <th>재학 기간</th>
+    <th>구분</th>
+    <th>학교명(소재지)</th>
+    <th>전공</th>
+    <th>학점</th>
+  </tr>
+  <tr>
+    <td>2018.03 ~ 2022.02</td>
+    <td>졸업</td>
+    <td>우석 대학교(충북)</td>
+    <td>문예창작학과</td>
+    <td>3.42/4.5</td>
+  </tr>
+  <tr>
+    <td>2015.12 ~ 2017.02</td>
+    <td>졸업</td>
+    <td>선유 고등학교(서울)</td>
+    <td>이과</td>
+    <td></td>
+  </tr>
+</table>
   
 교육 수료 사항  
 과정명 : (디지털컨버전스)공공데이터 기반 웹 애플리케이션 개발자 양성과정(2)  
