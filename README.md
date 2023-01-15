@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>이메일</td>
-    <td>0921mail@naver.com</td>
+    <td><a href="mailto:0921mail@naver.com">0921mail@naver.com</a></td>
   </tr>
 </table>  
   
