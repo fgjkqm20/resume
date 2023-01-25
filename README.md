@@ -133,13 +133,23 @@
   
 ### 1. nearByDoctor
 비대면 진료 및 약 배송 서비스 제공 웹 사이트  
-개발 기간 : 2022년 09월 13일 ~ 2022년 09월 27일  
+  
+**개발 기간**
+2022년 09월 13일 ~ 2022년 09월 27일  
+  
+**기술 스택**  
+Java, Oracle, HTML, CSS, JavaScript  
   
 [프로젝트 상세 설명](https://github.com/fgjkqm20/semi-project)
   
 ### 2. 산책갈개
 반려견 산책 모임 서비스 제공 웹 사이트  
-개발 기간 : 2022년 09월 13일 ~ 2022년 09월 27일  
+  
+**개발 기간**  
+2022년 09월 13일 ~ 2022년 09월 27일  
+  
+**기술 스택**  
+Java, Spring, Oracle, Mybatis, HTML, CSS, JavaScript  
   
 [프로젝트 상세 설명](https://github.com/fgjkqm20/final-project)
 
