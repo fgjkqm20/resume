@@ -100,7 +100,10 @@
   </tr>
   <tr>
     <th>비고</th>
-    <td></td>
+    <td>
+      1년 동안 일할 수 있는 곳을 찾고 있습니다.<br>
+      이후 가능하다면 산업요원으로 일하고 싶습니다.
+    </td>
   </tr>
 </table>
   
@@ -125,6 +128,20 @@
     <td colspan="3">Java, Oracle, HTML, CSS, JavaScript, Jquery, Ajax, JSP, Servlet, Spring, Mybatis, Git/GitHub</td>
   </tr>
 </table>
+
+## 프로젝트
+  
+### 1. nearByDoctor
+비대면 진료 및 약 배송 서비스 제공 웹 사이트  
+개발 기간 : 2022년 09월 13일 ~ 2022년 09월 27일  
+  
+[프로젝트 상세 설명](https://github.com/fgjkqm20/semi-project)
+  
+### 2. 산책갈개
+반려견 산책 모임 서비스 제공 웹 사이트  
+개발 기간 : 2022년 09월 13일 ~ 2022년 09월 27일  
+  
+[프로젝트 상세 설명](https://github.com/fgjkqm20/final-project)
 
 <h2>희망 근무 조건</h2>
 <table>
