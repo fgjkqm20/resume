@@ -1,6 +1,6 @@
-<h1>이력서</h1>
+<h1>고유빈 이력서</h1>
   
-<h2>기본 정보</h2> 
+<h2></h2>
 <table>
   <tr>
     <td rowspan="5">
@@ -25,6 +25,22 @@
     <th>주소</th>
     <td><a href="https://goo.gl/maps/9rJS4sjK3whZA5s36">서울 금천구 독산로39길28</a></td>
   </tr>
+</table> 
+  
+<h2></h2>
+<table>
+  <tr>
+    <th>경력</th>
+    <td>신입</td>
+  </tr>
+  <tr>
+    <th>지원 분야</th>
+    <td>Java Web Development</td>
+  </tr>  
+  <tr>
+    <th>희망 연봉</th>
+    <td>2800만원 이상</td>
+  </tr>  
 </table>
   
 <h2>연락처</h2> 
@@ -37,53 +53,55 @@
     <th>이메일</th>
     <td><a href="mailto:0921mail@naver.com">0921mail@naver.com</a></td>
   </tr>
-</table>  
-  
-<h2>그 밖의 정보</h2>
-<table>
-  <tr>
-    <th>경력</th>
-    <td>신입</td>
-  </tr>
-  <tr>
-    <th>학력</th>
-    <td>대학교(4년) 졸업</td>
-  </tr>
-  <tr>
-    <th>자격증</th>
-    <td>정보처리기사(필기)</td>
-  </tr>
-  <tr>
-    <th>병역</th>
-    <td>미필(보충역)</td>
-  </tr>
-  <tr>
-    <th>희망 연봉</th>
-    <td>2800만원 ~ 3000만원</td>
-  </tr>
-</table>
+</table> 
   
 <h2>학력</h2>
 <table>
   <tr>
     <th>재학 기간</th>
-    <th>구분</th>
     <th>학교명(소재지)</th>
     <th>전공</th>
     <th>학점</th>
   </tr>
   <tr>
-    <td>2018.03 ~ 2022.02</td>
-    <td>졸업</td>
+    <td>2018년 03월(입학) ~ 2022년 02월(졸업)</td>
     <td>우석 대학교(충북)</td>
     <td>문예창작학과</td>
     <td>3.42/4.5</td>
   </tr>
   <tr>
-    <td>2015.12 ~ 2017.02</td>
-    <td>졸업</td>
+    <td>2015년 12월(편입) ~ 2017년 02월(졸업)</td>
     <td>선유 고등학교(서울)</td>
     <td>이과</td>
+    <td></td>
+  </tr>
+</table>
+  
+<h2>자격증</h2>
+<table>
+  <tr>
+    <th>자격명</th>
+    <th>구분</th>
+    <th>발행처</th>
+    <th>취득일</th>
+    
+  </tr>
+  <tr>
+    <td>정보처리기사</td>
+    <td>필기 합격</td>
+    <td>한국산업인력공단</td>
+    <td>2022년 08월</td>
+  </tr>
+</table>
+  
+<h2>병역 여부</h2>
+<table>
+  <tr>
+    <th>구분</th>
+    <td>미필</td>
+  </tr>
+  <tr>
+    <th>비고</th>
     <td></td>
   </tr>
 </table>
