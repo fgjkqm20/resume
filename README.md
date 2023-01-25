@@ -1,6 +1,7 @@
 <h1>고유빈 이력서</h1>
+한 줄 소개
   
-<h2></h2>
+<h2>인적 사항</h2>
 <table>
   <tr>
     <td rowspan="5">
@@ -27,22 +28,6 @@
   </tr>
 </table> 
   
-<h2></h2>
-<table>
-  <tr>
-    <th>경력</th>
-    <td>신입</td>
-  </tr>
-  <tr>
-    <th>지원 분야</th>
-    <td>Java Web Development</td>
-  </tr>  
-  <tr>
-    <th>희망 연봉</th>
-    <td>2800만원 이상</td>
-  </tr>  
-</table>
-  
 <h2>연락처</h2> 
 <table>
   <tr>
@@ -53,7 +38,15 @@
     <th>이메일</th>
     <td><a href="mailto:0921mail@naver.com">0921mail@naver.com</a></td>
   </tr>
-</table> 
+</table>   
+  
+<h2>자기소게</h2>
+
+Java Web Full Stack 개발자가 되기 위한 직업 훈련 과정을 수료하였습니다.  
+직업 훈련 과정에서 비대면 진료 및 약 배송 서비스 제공하는 
+[NearByDoctor](https://github.com/fgjkqm20/semi-project) 프로젝트와  
+반려견 산책 모임 서비스 제공하는 [산책갈개](https://github.com/fgjkqm20/final-project)
+프로젝트를 진행한 경험이 있습니다.  
   
 <h2>학력</h2>
 <table>
@@ -126,4 +119,16 @@
     <th>교육 내용</th>
     <td colspan="3">Java, Oracle, HTML, CSS, JavaScript, Jquery, Ajax, JSP, Servlet, Spring, Mybatis, Git/GitHub</td>
   </tr>
+</table>
+
+<h2>희망 근무 조건</h2>
+<table>
+  <tr>
+    <th>지원 분야</th>
+    <td>Java Web Development</td>
+  </tr>  
+  <tr>
+    <th>희망 연봉</th>
+    <td>2800만원 이상</td>
+  </tr>  
 </table>
