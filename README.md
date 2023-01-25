@@ -149,7 +149,7 @@ Java, Oracle, HTML, CSS, JavaScript
 2022년 09월 13일 ~ 2022년 09월 27일  
   
 **기술 스택**  
-Java, Spring, Oracle, Mybatis, HTML, CSS, JavaScript  
+Java, Spring, Maven, Oracle, Mybatis, HTML, CSS, JavaScript  
   
 [프로젝트 상세 설명](https://github.com/fgjkqm20/final-project)
 
