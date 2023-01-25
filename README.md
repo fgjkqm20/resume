@@ -140,7 +140,7 @@
 **기술 스택**  
 Java, Oracle, HTML, CSS, JavaScript  
   
-[프로젝트 상세 설명 및 소스 코드](https://github.com/fgjkqm20/semi-project)
+[프로젝트 상세 설명](https://github.com/fgjkqm20/semi-project)
   
 ### 2. 산책갈개
 반려견 산책 모임 서비스 제공 웹 사이트  
@@ -151,7 +151,7 @@ Java, Oracle, HTML, CSS, JavaScript
 **기술 스택**  
 Java, Spring, Maven, Oracle, Mybatis, HTML, CSS, JavaScript  
   
-[프로젝트 상세 설명 및 소스 코드](https://github.com/fgjkqm20/final-project)
+[프로젝트 상세 설명](https://github.com/fgjkqm20/final-project)
 
 <h2>희망 근무 조건</h2>
 <table>
