@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td rowspan="5">
-      <img src="https://github.com/fgjkqm20/resume/blob/main/image/profile.png" width="117" height="156px">
+      <img src="https://han.gl/ogJdaOg" width="117" height="156px">
     </td>
     <th>이름</th>
     <td>고유빈</td>
